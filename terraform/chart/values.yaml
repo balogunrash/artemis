@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: balogunrash/artemis
+  repository: balloray/artemis
   tag: latest
   pullPolicy: Always
 imagePullSecrets: []
