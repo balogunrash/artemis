@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: balloray/artemis
-  tag: latest
+  tag: v0.1
   pullPolicy: Always
 imagePullSecrets: []
 nameOverride: ""
