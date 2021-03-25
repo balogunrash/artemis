@@ -30,7 +30,7 @@ ingress:
   tls: 
   - secretName: artemis-tls
     hosts:
-    - balogunrash.com
+    - artemis.balogunrash.com
 
 resources: {}
   # We usually recommend not to specify default resources and to leave this as a conscious
